@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white">, 
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">,
-      <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](wlsud991227@gmail.com)
 
 <!--
