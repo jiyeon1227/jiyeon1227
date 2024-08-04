@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=b8dff8&text=💙%20Welcome%20to%20my%20git%20💙&animation=fadeIn&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=b8dff8&text=💙%20포기하더라도%20이슈나%20다%20처리하고%20포기하자💙&animation=fadeIn&fontSize=35)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyeon1227&count_bg=%233DA9C8&title_bg=%23929292&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/jiyeon1227)
+
 
 ### 🌱 I’m currently learning 🌱 <br> 
   [Programming Languages]<br> 
@@ -12,6 +13,7 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
   
   [Frontend]<br>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=JavaScript&logoColor=white">
   
 ### 📫 How to reach me 📫
